@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Activity
+        </title>
+    </head>
+    <body>
+        <h1>
+            Adding JS as an external file
+        </h1>
+        <button type="button" onclick="myFunction()">Click Me!</button>
+        <p id="result"></p>
+        <script src="activity.js"></script>
+    </body>
+</html>
